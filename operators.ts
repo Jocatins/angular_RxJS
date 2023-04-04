@@ -8,3 +8,7 @@ const squareEven = source.pipe(
 );
 
 squareEven.subscribe(console.log);
+
+// In the above code block, we use the pipe method to chain the filter and map operators to the
+// Observable. The filter operator filters out the the odd numbers, and the map operators
+// squares the even nos.
