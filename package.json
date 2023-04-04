@@ -1,0 +1,9 @@
+{
+  "name": "angular-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  }
+}
